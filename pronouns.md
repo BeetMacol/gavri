@@ -1,5 +1,7 @@
 # Pronouns
 
+[<- Return](README.md)
+
 | Person | 1st | 2nd | 3rd
 |-:|:-|:-|:-|
 | Singular | si | gvi | fi (for people)<br/>dzi (other) |
